@@ -1,0 +1,12 @@
+    1  history 300
+    2  cd /root
+    3  cd server_lesoon
+    4  cd server_lesson
+    5  echo '# Hello World'
+    6  ..
+    7  cd ..
+    8  cd /root
+    9  cd sever_lesson
+   10  cd server_lesson/
+   11  cd linux_practice2
+   12  history 300 > exec_command.log
