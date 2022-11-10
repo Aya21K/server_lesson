@@ -1,10 +1,10 @@
--学んだコマンド
---ls  
---pwd  
---cd  
---mkdir  
---touch  
---cp
---mv  
---rm  
---cat  
+# learn_command
+- ls  
+- pwd  
+- cd  
+- mkdir  
+- touch  
+- cp
+- mv  
+- rm  
+- cat  
